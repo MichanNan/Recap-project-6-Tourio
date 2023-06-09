@@ -1,5 +1,7 @@
 # Recap Project 6: Tourio App
 
+## Deployed by Versel
+
 [Tourio](https://recap-project-6-tourio.vercel.app/)
 
 ## Task
