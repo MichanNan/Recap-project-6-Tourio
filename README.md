@@ -1,6 +1,6 @@
 # Recap Project 6: Tourio App
 
-[Try the App](`https://recap-project-6-tourio.vercel.app/`)
+[Tourio](https://recap-project-6-tourio.vercel.app/)
 
 ## Task
 
